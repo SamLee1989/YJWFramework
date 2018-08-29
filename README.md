@@ -1,2 +1,2 @@
 # YJWFramework
-for Objecttive-C
+for Objective-C
